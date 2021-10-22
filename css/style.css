@@ -1,0 +1,167 @@
+/* 
+##################################################################################
+                                  IMPORTS
+##################################################################################                             
+*/
+@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Display:wght@300&display=swap');
+
+/* 
+##################################################################################
+                                  WEB RESPONSIVE
+##################################################################################                             
+*/
+@media screen and (max-width: 450px ) 
+{
+    #container1
+    {
+        margin: 8vh;
+        margin-left: auto;
+        margin-right: auto;
+        width: 90%;
+    }
+    #container2
+    {
+        padding: 10% 5% 10% 5%;
+        height: 100%;
+        background: white;
+    }
+}
+
+/* 
+##################################################################################
+                                  STYLE
+##################################################################################                             
+*/
+body
+{
+    background: hsl(225, 100%, 94%) url("./images/pattern-background-desktop.svg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    font-family: 'Red Hate Display', sans-serif;
+    font-size: 16px;
+}
+
+#container1
+{
+    display: flex;
+    flex-direction: column;
+    margin-top: 3em;
+    margin-left: auto;
+    margin-right: auto;
+    width: 420px;
+    border-radius: 20px;
+    box-shadow: 0 0 25px rgba(70, 70, 70, 0.267); 
+}
+
+img#illustration-hero
+{
+    border-radius: 20px 20px 0 0;
+}
+
+#container2
+{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding:  10%;
+    height: 100%;
+    background-color: white;
+    color: hsl(224, 23%, 55%);
+    border-radius: 0 0 20px 20px;
+}
+
+#title
+{
+    margin: 0;
+    color: hsl(223, 47%, 23%);
+    font-size: 1.5em;
+    font-weight: 700;
+}
+
+#container3
+{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    margin-bottom: 10%;
+    padding: 6% 6%;
+    background-color: hsl(225, 100%, 98%);
+    border-radius: 15px;
+}
+
+#change
+{
+    margin-left: auto;
+    color: hsl(245, 75%, 52%);
+    font-size: 0.9em;
+    font-weight: 700;
+    text-decoration: underline;
+    transition:  200ms ;
+}
+
+#change:hover
+{
+    color: rgb(101, 55, 255);
+    text-decoration: none;
+    cursor: pointer;
+    transition:  400ms ;
+}
+
+#price, #annualplan
+{
+    margin: 0;
+}
+
+#annualplan
+{
+    margin-left: 10px;
+    margin-bottom: 5%;
+    color: hsl(223, 47%, 23%);
+    font-weight: 700;
+}
+
+#plan-informations
+{
+    margin: 2% 0 0 5% ;
+}
+
+button
+{
+    font-weight: 700;
+    font-size: 14px;
+}
+
+button#proceed
+{
+    margin-bottom: 8%;
+    height: 50px;
+    background-color: hsl(239, 69%, 54%);
+    color: white;
+    box-shadow: 0 15px 20px rgba(56, 41, 224, 0.226);
+    border: hsl(224, 23%, 55%);
+    border-radius: 10px;
+    transition:  200ms ;
+}
+
+button#proceed:hover
+{
+    cursor: pointer;
+    background-color: rgb(101, 55, 255);
+    transition: 400ms;
+}
+
+button#cancel
+{
+    background-color: transparent;
+    color: hsl(224, 23%, 55%);
+    border: none;
+    transition:  200ms ;
+}
+
+button#cancel:hover
+{
+    color: hsl(223, 47%, 23%);
+    cursor: pointer;
+    transition: 200ms;   
+}
+
