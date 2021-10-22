@@ -5,12 +5,12 @@ This is the solution to the challenge [Order Summary Component](https://www.fron
 ## Table of Content
 
 - [Overview](#overview)
-  - [What is the challenge ?](#what-is-the-challenge-?)
+  - [What is the challenge ?](#what-is-the-challenge)
   - [Screenshots](#screenshots)
     - [Design](#design)
     - [Result](#result)
   - [Links](#links)
-- [How I made this ?](#how-i-made-this-?)
+- [How I made this ?](#how-i-made-this)
   - [Languages used](#languages-used)
   - [Ressources that help me](#ressources-that-help-me)
 
