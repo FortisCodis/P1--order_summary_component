@@ -6,9 +6,7 @@ This is the solution to the challenge [Order Summary Component](https://www.fron
 
 - [Overview](#overview)
   - [What is the challenge ?](#what-is-the-challenge)
-  - [Screenshots](#screenshots)
-    - [Design](#design)
-    - [Result](#result)
+  - [Screenshot](#screenshot)
   - [Links](#links)
 - [How I made this ?](#how-i-made-this)
   - [Languages used](#languages-used)
