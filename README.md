@@ -20,15 +20,9 @@ This is the solution to the challenge [Order Summary Component](https://www.fron
 
 In this challenge you sould be able to build out an order summary card component and get it looking as close to the design as possible.
 
-### Screenshots
+### Screenshot
 
-#### Design
-
-![design](./images/design.jpg)
-
-#### Result
-
-![result](./images/result-screenshot)
+![screenshot](./images/screenshot.jpg)
 
 ### Links
 
