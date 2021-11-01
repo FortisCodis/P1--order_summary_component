@@ -24,8 +24,8 @@ In this challenge you sould be able to build out an order summary card component
 
 ### Links
 
-- Solution URL:
-- Live Site URL:
+- Solution URL: <https://www.frontendmentor.io/solutions/order-summary-component-brYSf0mG7>
+- Live Site URL: <https://fortiscodis.github.io/P1--order_summary_component/>
 
 ## How I made this ?
 
@@ -35,5 +35,3 @@ In this challenge you sould be able to build out an order summary card component
 - CSS3 with flexbox
 
 ### Ressources that help me
-
-
