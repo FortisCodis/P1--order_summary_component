@@ -35,3 +35,5 @@ In this challenge you sould be able to build out an order summary card component
 - CSS3 with flexbox
 
 ### Ressources that help me
+
+CSS Flexbox on [W3School](https://www.w3schools.com/css/css3_flexbox.asp)
